@@ -6,3 +6,8 @@
 ###### This is the smallest, h6
 
 ![Lambda Labs Logo](https://lambdalabs.com/hubfs/logos/lambda-logo.svg)
+
+```
+$ git init
+This is a code example, pretend this text is some linux thingy that looks like /stuff/in/a/linux/filesystem/.git/
+```
