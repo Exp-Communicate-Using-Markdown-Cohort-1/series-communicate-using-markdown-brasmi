@@ -4,3 +4,5 @@
 #### Fourth, h4
 ##### Fifth, h5
 ###### This is the smallest, h6
+
+![Lambda Labs Logo](https://lambdalabs.com/hubfs/logos/lambda-logo.svg)
