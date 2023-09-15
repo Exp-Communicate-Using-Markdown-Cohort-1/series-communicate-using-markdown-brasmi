@@ -11,3 +11,7 @@
 $ git init
 This is a code example, pretend this text is some linux thingy that looks like /stuff/in/a/linux/filesystem/.git/
 ```
+
+- [ ] This is a task list
+- [ ] Step 2
+- [ ] Last step
